@@ -1,0 +1,8 @@
+
+
+
+chmod +x install_apps.sh
+
+
+./install_apps.sh
+
